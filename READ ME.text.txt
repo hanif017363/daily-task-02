@@ -1,0 +1,15 @@
+30 sep 2024 
+daily task 02 
+html live 02
+used: 
+font awsome
+div
+textfield
+form
+input
+footer
+nav
+table
+figma:https://www.figma.com/design/7IbuYgxS5h5YFoJGAeqEiC/Bantu-Warga-Web-(Community)?node-id=16-4&node-type=FRAME&t=c8oiOoiRLUFf5OXJ-0
+
+my netlify link : https://genuine-cucurucho-2fb47a.netlify.app/
